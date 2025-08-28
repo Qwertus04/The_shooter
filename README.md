@@ -1,2 +1,7 @@
 # The_shooter
 Educational Project
+Этот проект по теме шутера, написанный на Python, проект собрать достаточно просто но для этого пригодится VSCode!
+№1 Открыть папку в VSCode
+№2 Найти терминал
+№3 В терминале написать команду "pyinstaller --onefile --noconsole --icon=icon.ico game_shooter.py
+Всё готово! программа запакована в exe файл!
